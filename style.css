@@ -1,0 +1,33 @@
+/* Reset de estilo básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Corpo do site */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+/* Estilização do cabeçalho */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 30px 0;
+}
+
+header .container {
+    text-align: center;
+}
+
+header h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+header p {
+    font
